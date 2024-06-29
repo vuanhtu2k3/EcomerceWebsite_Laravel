@@ -1,5 +1,5 @@
 Giao diện USer 
-![Uploading image.png…]()
+![image](https://github.com/vuanhtu2k3/EcomerceWebsite_Laravel/assets/116624441/0980d9b6-3d63-49dc-84e1-69d0b501b7b9)
 ![image](https://github.com/vuanhtu2k3/EcomerceWebsite_Laravel/assets/116624441/9629d778-a5ac-443c-af7d-5704d7bd6d77)
 ![image](https://github.com/vuanhtu2k3/EcomerceWebsite_Laravel/assets/116624441/15595d59-2954-401d-8c25-9153d050624a)
 ![image](https://github.com/vuanhtu2k3/EcomerceWebsite_Laravel/assets/116624441/18fa59a1-912f-450c-989e-18ff5d41e648)
