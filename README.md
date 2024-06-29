@@ -1,4 +1,4 @@
-========================================  Giao diện USer =========================================================== 
+                                                   Giao diện USer
 
 
 ![image](https://github.com/vuanhtu2k3/EcomerceWebsite_Laravel/assets/116624441/948e93b4-e0c2-42b9-85c8-3f9d3b66c197)
@@ -15,7 +15,7 @@
 ![image](https://github.com/vuanhtu2k3/EcomerceWebsite_Laravel/assets/116624441/060ca42d-f71f-460c-a35d-07a027699b55)
 
 
-========================================Giao diện Admin============================================================
+                                                  Giao diện Admin
 ![image](https://github.com/vuanhtu2k3/EcomerceWebsite_Laravel/assets/116624441/cd154c79-3dc6-4993-8b41-ad5d63f93f26)
 ![image](https://github.com/vuanhtu2k3/EcomerceWebsite_Laravel/assets/116624441/309edb81-14cd-4d3f-af16-e2f660ca0cb4)
 ![image](https://github.com/vuanhtu2k3/EcomerceWebsite_Laravel/assets/116624441/b7df9cd4-1df0-41e8-80ad-843bec54bf21)
