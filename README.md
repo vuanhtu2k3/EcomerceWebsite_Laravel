@@ -30,6 +30,6 @@
 ![image](https://github.com/vuanhtu2k3/EcomerceWebsite_Laravel/assets/116624441/001b690c-466f-4ab5-8340-296c6bb78e9d)
 
 
-
+Đế xem chi tiết hơn, mọi người có thể xem video Demo: https://youtu.be/Qwc052n6z8w
 
 
